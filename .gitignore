@@ -1,3 +1,6 @@
+.idea
+_mac
+codestyles
 assets/*
 !assets/.gitignore
 protected/runtime/*
